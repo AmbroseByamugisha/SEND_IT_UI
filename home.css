@@ -21,3 +21,8 @@ a {
 a:hover {
     color: blue;
 }
+
+img {
+	width: 270px;
+	height: 200px;
+}
